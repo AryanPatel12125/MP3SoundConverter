@@ -65,12 +65,9 @@ We encourage users to explore these folders to gain insights into the developmen
 This project is open for all to use, but please ensure to include the following copyright statement when using or adapting this code:
 
 ```
-Copyright (C) [Year] [Your Name]
+Copyright (C) [2024] [Aryan Patel]
 ```
-
-Replace `[Year]` with the current year and `[Your Name]` with your full name.
 
 ## Acknowledgments
 
 - The scripts use the `librosa`, `numpy`, `soundfile`, and `audioread` libraries for audio processing.
-```
